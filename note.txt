@@ -1,3 +1,0 @@
-create out first reactJS application 
-learn about jsx
-learn about best file and folder structure.
